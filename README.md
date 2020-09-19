@@ -1,6 +1,5 @@
 # fullstack-home-assignment
 
-## The mission
  You need to display the input image on a website page using HTML canvas.
 
  The input file is a text file that represent an image by RGBA Colors, which means that every 4 values (0-255 separated by a comma) represent the color of one pixel. 
