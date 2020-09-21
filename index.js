@@ -1,4 +1,4 @@
-// Usefull links:
+// Useful links:
 // https://stackoverflow.com/questions/15908179/draw-image-from-pixel-array-on-canvas-with-putimagedata
 // https://www.w3schools.com/tags/canvas_imagedata_data.asp
 // https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/createImageData
